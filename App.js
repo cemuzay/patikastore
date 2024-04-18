@@ -83,9 +83,9 @@ const styles = StyleSheet.create({
     backgroundColor: "#ECEFF1",
   },
   inStockText: {
-    color: 'black', // Change to desired color for in-stock items
+    color: 'black', 
   },
   outOfStockText: {
-    color: 'red', // Change to desired color for out-of-stock items
+    color: 'red', 
   },
 });
